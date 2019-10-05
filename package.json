@@ -1,0 +1,12 @@
+{
+  "name": "user-testing-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -p 3000 build -c-1"
+  },
+  "keywords": [],
+  "author": "Verónica Serna",
+  "license": "ISC"
+}
